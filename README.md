@@ -29,6 +29,12 @@ The model is a star schema.
 There are 4-dimensional tables joined with a many-to-one relationship.
 
 ## Visualization
+The report comprises of a page
+You can interact with the report here
+
+## Analysis
+![](pizzaDashboard.png)
+
 
 
 
