@@ -23,5 +23,12 @@ The following Power BI features were incorporated
 
 ## Modelling
 
+![](model.png)
+
+The model is a star schema.
+There are 4-dimensional tables joined with a many-to-one relationship.
+
+## Visualization
+
 
 
