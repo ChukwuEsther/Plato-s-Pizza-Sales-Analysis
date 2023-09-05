@@ -50,7 +50,7 @@ The busiest days are thursday through sundays.
 The busiest times are from 11am to 4pm.
 There was no seasonality discovered.
 
-## Conclusion/Reccommendation
+## Conclusion/Recommendation
 To improve sales of the poor selling pizzas, proper marketing strategy should be applied.
 The quality of the best selling pizza should be maintained to prevent reduced sales.
 Workers should be available during the busiest days and times to offer quality services.
